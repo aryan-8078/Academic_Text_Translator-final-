@@ -1,0 +1,11 @@
+Flask
+transformers
+torch
+sentencepiece
+safetensors
+PyPDF2
+fpdf2
+uharfbuzz
+python-docx
+gunicorn
+pdfplumber
